@@ -1,0 +1,2 @@
+#Maven image
+FROM maven:latest
